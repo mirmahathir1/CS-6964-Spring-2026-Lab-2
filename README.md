@@ -88,6 +88,7 @@ Double click on `Documents` and go to `CS-6964-Spring-2026-Lab-2`. You should se
 
 ## Step 5: Verify connection
 Run the `lab2-notebook.ipynb` up to the following cell. If the output is the same as below, then the setup is working.
+
 ![Spark](materials/ss7.png)
 
 ## Step 6: Resume work after the first run
