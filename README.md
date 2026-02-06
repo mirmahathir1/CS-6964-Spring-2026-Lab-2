@@ -68,6 +68,9 @@ https://ondemand-class.chpc.utah.edu/pun/sys/dashboard/batch_connect/sessions to
 Expected Result:
 ![Spark](materials/ss2.png)
 
+If you are seeing an error similar to the following screenshot, email `helpdesk@chpc.utah.edu` to solve the problem by including your ID, name, the course number and a screenshot of the problem.
+![Spark](materials/ss8.png)
+
 Important Note: After 8 hours, you will have to submit another job using [the above mentioned link](https://ondemand-class.chpc.utah.edu/pun/sys/dashboard/batch_connect/sys/Spark_Jupyter/session_contexts/new) to get additional 8 hour to work on your assignment. You may launch a spark job whenever your previous Spark job expires.
 
 ## Step 4: Work on the assignment
