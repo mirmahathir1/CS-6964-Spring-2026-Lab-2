@@ -43,6 +43,7 @@ In the terminal where you logged in using SSH, use the following commands to set
 
 ```bash
 # This command is for the students to run
+mkdir -p ~/Documents
 cd ~/Documents
 git clone https://github.com/mirmahathir1/CS-6964-Spring-2026-Lab-2
 ```
@@ -90,6 +91,8 @@ Double click on `Documents` and go to `CS-6964-Spring-2026-Lab-2`. You should se
 Run the `lab2-notebook.ipynb` up to the following cell. If the output is the same as below, then the setup is working. You might see a long list of 'Attempting port 4XXX' warnings. That's OK as long as the cell finishes running.
 
 ![Spark](materials/ss7.png)
+
+If you get an error containing `PySparkRuntimeError` or a similar Python exception not matching the above output- please contact the class TAs.
 
 ## Step 6: Resume work after the first run
 * Run all cells of `lab2_tutorial.ipynb` to get familiar with Spark.
