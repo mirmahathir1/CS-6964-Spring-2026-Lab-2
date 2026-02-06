@@ -42,7 +42,6 @@ You will be prompted to enter the password associated with your uNID. If the log
 In the terminal where you logged in using SSH, use the following commands to set up the project folder in CHPC.
 
 ```bash
-# This command is for the students to run
 mkdir -p ~/Documents
 cd ~/Documents
 git clone https://github.com/mirmahathir1/CS-6964-Spring-2026-Lab-2
